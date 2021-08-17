@@ -23,9 +23,10 @@
 
 This application is an e-commerce website. There are items for sale organized into categories. Users can create an account, log in and add items to a shopping cart. The app uses the stripe API to handle checkout and it has been refactored to use Redux to handle the application state.
 
-Deployed Link:
+Deployed Link:  https://cryptic-sands-44990.herokuapp.com/
 
 Visuals of the app:
+![The products page of the Shop with items in the shopping cart](redux-shop.png)
 
 <a name="installation"></a>
 ## Installation
